@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<meta charset_"utf-8">
+<title>Review</title>
+<head>
+    <h1><center>Anne with an E</center></h1>
+    <style>
+        h1{
+           font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h2><center><u>========Sobre========</u></center></h2>
+    <h4><center>primeira vez publicado em 1908, Anne de Green Gables é um livro de ficção, escrito por Lucy Maud Montgomery, que se tornou sucesso no mundo todo. Atualmente, é possível assistir à adaptação da obra na Netflix, com a série "Anne With an E", disponível em duas temporadas. Anne é a personagem de uma menina órfã, que foi adotada por engano por um casal de irmãos e vive desde criança na comunidade de Green Gables.</center></h4>
+     <h3><center>========Vendas========</center></h3>
+     <h4><center>É conhecido por ter vendido milhões de cópias globalmente ao longo dos anos. O livro foi traduzido para muitos idiomas e continua sendo popular, sendo constantemente reimpresso e adaptado para outras mídias, incluindo filmes, séries de televisão e peças teatrais</center></h4>
+     <h3><center>========Resumo========</center></h3>
+     <p><center>Anne é uma menina imaginativa, inteligente e falante, mas também tempestuosa e com uma imaginação muito fértil. Ela é adotada por engano por um casal de irmãos idosos, Marilla e Matthew Cuthbert, que originalmente planejavam adotar um menino para ajudar nas tarefas da fazenda Green Gables.
+
+        Apesar do mal-entendido inicial, Anne conquista o coração dos Cuthberts e se estabelece em Green Gables. O romance acompanha as aventuras de Anne enquanto ela cresce e enfrenta os desafios da vida na pequena comunidade de Avonlea. Desde conflitos com sua arquirrival, Gilbert Blythe, até suas amizades sinceras e suas realizações na escola, Anne encanta a todos com sua natureza vibrante e sua imaginação vívida.
+        
+        O livro aborda temas como amor, amizade, identidade e pertencimento, e captura os altos e baixos da infância e da adolescência com sensibilidade e humor. "Anne of Green Gables" é uma história atemporal que continua a cativar leitores de todas as idades ao redor do mundo.</center></p>
+
+    <h3><center>========Reviews========</center></h3>
+    <h4><center>as críticas e análises de "Anne of Green Gables" geralmente são muito positivas. O livro é considerado um clássico da literatura infantojuvenil e é amplamente elogiado por sua narrativa cativante, personagens bem desenvolvidos e temas atemporais.
+
+        Muitos leitores apreciam a perspicácia e a imaginação da autora, Lucy Maud Montgomery, na criação da personagem de Anne Shirley e na descrição da vida na Ilha do Príncipe Eduardo, no Canadá. A jornada de Anne, desde sua chegada a Avonlea até sua maturidade, é frequentemente elogiada por sua profundidade emocional e por abordar questões universais como amor, amizade, identidade e pertencimento.</center></h4>
+    <h3><center>========Preços========</center></h3>
+    <h4><center>O preço médio de "Anne of Green Gables" pode variar significativamente, mas para dar um número aproximado, considere uma faixa de preço entre $10 e $20 para edições de bolso ou brochura em bom estado. No entanto, edições especiais, capa dura ou de luxo podem custar mais, podendo chegar a $30, $40 ou até mais, dependendo das características específicas do livro.</center></h4>
+<style>
+    
+    body{
+        background-color: rgb(221, 195, 185);
+        
+        }
+</style>
+
+</body>
+</html>
